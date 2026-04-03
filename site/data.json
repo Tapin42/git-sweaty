@@ -36350,6 +36350,24 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/22372220523",
       "year": 2026
+    },
+    {
+      "date": "2026-04-02",
+      "hour": 17,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/22387949550",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 8,
+      "name": "Pool Swim",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/22394842811",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -70423,6 +70441,15 @@
           "distance": 2286.0,
           "elevation_gain": 0.0,
           "moving_time": 2642.85107421875
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "22394842811"
+          ],
+          "count": 1,
+          "distance": 2240.280029296875,
+          "elevation_gain": 0.0,
+          "moving_time": 2584.131103515625
         }
       },
       "VirtualRide": {
@@ -71068,6 +71095,15 @@
           "distance": 4871.18017578125,
           "elevation_gain": 0.0,
           "moving_time": 1505.5019836425781
+        },
+        "2026-04-02": {
+          "activity_ids": [
+            "22387949550"
+          ],
+          "count": 1,
+          "distance": 11662.5400390625,
+          "elevation_gain": 0.0,
+          "moving_time": 3606.843994140625
         }
       },
       "multi_sport": {
@@ -71084,7 +71120,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-04-02T15:24:16.172297+00:00",
+  "generated_at": "2026-04-03T15:17:05.380996+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

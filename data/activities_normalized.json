@@ -52721,5 +52721,31 @@
     "start_date_local": "2026-04-11T11:03:06",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 92308.03125,
+    "elevation_gain": 515.0,
+    "id": "22502921877",
+    "moving_time": 10831.205039978027,
+    "name": "Mazomanie - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-04-12T08:34:00",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 2057.39990234375,
+    "elevation_gain": 0.0,
+    "id": "22504843007",
+    "moving_time": 2231.6220703125,
+    "name": "Pool Swim",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-04-12T14:35:56",
+    "type": "Swim",
+    "year": 2026
   }
 ]

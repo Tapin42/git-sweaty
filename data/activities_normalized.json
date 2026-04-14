@@ -52747,5 +52747,57 @@
     "start_date_local": "2026-04-12T14:35:56",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 3453.06005859375,
+    "elevation_gain": 10.0,
+    "id": "22516630586",
+    "moving_time": 1018.1319999694824,
+    "name": "Fitchburg Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-13T18:03:27",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 7486.3798828125,
+    "elevation_gain": 50.0,
+    "id": "22516832807",
+    "moving_time": 1040.7770071029663,
+    "name": "Fitchburg Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-13T18:29:42",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 4524.8798828125,
+    "elevation_gain": 72.0,
+    "id": "22517002207",
+    "moving_time": 705.0,
+    "name": "Oregon Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-04-13T18:59:15",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 7353.059814453125,
+    "elevation_gain": 51.0,
+    "id": "22517197782",
+    "moving_time": 1068.0759887695312,
+    "name": "Fitchburg Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-04-13T19:24:56",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]

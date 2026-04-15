@@ -52799,5 +52799,18 @@
     "start_date_local": "2026-04-13T19:24:56",
     "type": "multi_sport",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 7486.379928588867,
+    "elevation_gain": 39.14874267578125,
+    "id": "22528121306",
+    "moving_time": 1053.016975402832,
+    "name": "Fitchburg Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-04-13T18:29:42",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]

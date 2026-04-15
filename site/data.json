@@ -36548,6 +36548,15 @@
       "type": "multi_sport",
       "url": "https://connect.garmin.com/modern/activity/22517197782",
       "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 18,
+      "name": "Fitchburg Multisport",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/22528121306",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -71445,18 +71454,19 @@
         },
         "2026-04-13": {
           "activity_ids": [
-            "22517197782"
+            "22517197782",
+            "22528121306"
           ],
-          "count": 1,
-          "distance": 7353.059814453125,
-          "elevation_gain": 51.0,
-          "moving_time": 1068.0759887695312
+          "count": 2,
+          "distance": 14839.439743041992,
+          "elevation_gain": 90.14874267578125,
+          "moving_time": 2121.0929641723633
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-04-14T15:28:43.073312+00:00",
+  "generated_at": "2026-04-15T15:29:45.012108+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

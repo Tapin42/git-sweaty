@@ -52812,5 +52812,31 @@
     "start_date_local": "2026-04-13T18:29:42",
     "type": "multi_sport",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 2446.02001953125,
+    "elevation_gain": 0.0,
+    "id": "22539697796",
+    "moving_time": 2804.780029296875,
+    "name": "Pool Swim",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-04-15T13:35:55",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 26640.0,
+    "elevation_gain": 159.0,
+    "id": "22547513444",
+    "moving_time": 3611.0,
+    "name": "Virtual Cycling",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-04-16T08:13:20",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

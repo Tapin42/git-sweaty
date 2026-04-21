@@ -52903,5 +52903,18 @@
     "start_date_local": "2026-04-19T14:35:46",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 7592.35986328125,
+    "elevation_gain": 0.0,
+    "id": "22606034967",
+    "moving_time": 2406.4729614257812,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-04-21T08:24:53",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]

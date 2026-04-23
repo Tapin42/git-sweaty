@@ -36629,6 +36629,42 @@
       "type": "VirtualRun",
       "url": "https://connect.garmin.com/modern/activity/22606034967",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 18,
+      "name": "Fitchburg Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22625103236",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 18,
+      "name": "Fitchburg Multisport",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/22625104180",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 18,
+      "name": "Oregon Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22625104713",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 19,
+      "name": "Oregon Multisport",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/22625105678",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -70364,6 +70400,15 @@
           "distance": 4524.8798828125,
           "elevation_gain": 72.0,
           "moving_time": 705.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "22625104713"
+          ],
+          "count": 1,
+          "distance": 4469.490234375,
+          "elevation_gain": 64.0,
+          "moving_time": 696.8679809570312
         }
       },
       "Run": {
@@ -70567,6 +70612,15 @@
           "distance": 20444.970703125,
           "elevation_gain": 97.0,
           "moving_time": 6302.021026611328
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "22625103236"
+          ],
+          "count": 1,
+          "distance": 3443.81005859375,
+          "elevation_gain": 9.0,
+          "moving_time": 1004.0
         }
       },
       "Swim": {
@@ -71605,12 +71659,22 @@
           "distance": 14839.439743041992,
           "elevation_gain": 90.14874267578125,
           "moving_time": 2121.0929641723633
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "22625104180",
+            "22625105678"
+          ],
+          "count": 2,
+          "distance": 14728.909809112549,
+          "elevation_gain": 102.0,
+          "moving_time": 2130.938959121704
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-04-22T15:29:56.144437+00:00",
+  "generated_at": "2026-04-23T15:36:20.094391+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

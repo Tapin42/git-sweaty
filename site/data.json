@@ -36665,6 +36665,24 @@
       "type": "multi_sport",
       "url": "https://connect.garmin.com/modern/activity/22625105678",
       "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 18,
+      "name": "Madison Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22636803924",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 8,
+      "name": "Springfield Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/22642553521",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -70409,6 +70427,15 @@
           "distance": 4469.490234375,
           "elevation_gain": 64.0,
           "moving_time": 696.8679809570312
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "22642553521"
+          ],
+          "count": 1,
+          "distance": 28045.970703125,
+          "elevation_gain": 272.0,
+          "moving_time": 3587.89697265625
         }
       },
       "Run": {
@@ -70621,6 +70648,15 @@
           "distance": 3443.81005859375,
           "elevation_gain": 9.0,
           "moving_time": 1004.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "22636803924"
+          ],
+          "count": 1,
+          "distance": 10671.080078125,
+          "elevation_gain": 55.0,
+          "moving_time": 3401.6739807128906
         }
       },
       "Swim": {
@@ -71674,7 +71710,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-04-23T15:36:20.094391+00:00",
+  "generated_at": "2026-04-24T15:28:21.325633+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

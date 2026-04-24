@@ -52968,5 +52968,31 @@
     "start_date_local": "2026-04-22T19:19:23",
     "type": "multi_sport",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 10671.080078125,
+    "elevation_gain": 55.0,
+    "id": "22636803924",
+    "moving_time": 3401.6739807128906,
+    "name": "Madison Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-23T18:06:57",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 28045.970703125,
+    "elevation_gain": 272.0,
+    "id": "22642553521",
+    "moving_time": 3587.89697265625,
+    "name": "Springfield Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-04-24T08:01:50",
+    "type": "Ride",
+    "year": 2026
   }
 ]

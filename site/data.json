@@ -36719,6 +36719,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/22671002541",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 7,
+      "name": "Springfield Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22689379482",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -70720,6 +70729,15 @@
           "distance": 16640.94921875,
           "elevation_gain": 90.0,
           "moving_time": 4804.9730224609375
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "22689379482"
+          ],
+          "count": 1,
+          "distance": 8343.6796875,
+          "elevation_gain": 104.0,
+          "moving_time": 2632.14501953125
         }
       },
       "Swim": {
@@ -71782,7 +71800,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-04-27T15:36:23.498190+00:00",
+  "generated_at": "2026-04-28T15:49:49.377271+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

@@ -53046,5 +53046,18 @@
     "start_date_local": "2026-04-26T14:34:43",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 8343.6796875,
+    "elevation_gain": 104.0,
+    "id": "22689379482",
+    "moving_time": 2632.14501953125,
+    "name": "Springfield Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-28T07:36:56",
+    "type": "Run",
+    "year": 2026
   }
 ]

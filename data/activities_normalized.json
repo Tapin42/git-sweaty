@@ -53059,5 +53059,57 @@
     "start_date_local": "2026-04-28T07:36:56",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 5041.759765625,
+    "elevation_gain": 61.0,
+    "id": "22707724204",
+    "moving_time": 790.0,
+    "name": "Middleton Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-04-29T17:19:27",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 1763.449951171875,
+    "elevation_gain": 15.0,
+    "id": "22707818890",
+    "moving_time": 514.0,
+    "name": "Middleton Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-29T17:38:36",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 6957.399758815765,
+    "elevation_gain": 82.0,
+    "id": "22707967769",
+    "moving_time": 1098.1139736175537,
+    "name": "Middleton Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-04-29T17:52:34",
+    "type": "multi_sport",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 6949.489910125732,
+    "elevation_gain": 77.0,
+    "id": "22708170506",
+    "moving_time": 1095.5730073451996,
+    "name": "Middleton Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-04-29T18:23:45",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]

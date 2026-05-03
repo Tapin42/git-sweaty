@@ -53124,5 +53124,31 @@
     "start_date_local": "2026-04-30T18:05:42",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 109663.671875,
+    "elevation_gain": 1458.0,
+    "id": "22742738103",
+    "moving_time": 14564.216968536377,
+    "name": "Arena - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-05-02T12:25:47",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 10054.900390625,
+    "elevation_gain": 33.0,
+    "id": "22742984224",
+    "moving_time": 2710.4039916992188,
+    "name": "Arena Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-02T16:37:33",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -53150,5 +53150,31 @@
     "start_date_local": "2026-05-02T16:37:33",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 20853.66015625,
+    "elevation_gain": 108.0,
+    "id": "22752113649",
+    "moving_time": 6381.25,
+    "name": "Madison Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-03T09:26:38",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 1874.52001953125,
+    "elevation_gain": 0.0,
+    "id": "22754438058",
+    "moving_time": 2311.416015625,
+    "name": "Pool Swim",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-05-03T14:34:19",
+    "type": "Swim",
+    "year": 2026
   }
 ]

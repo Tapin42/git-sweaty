@@ -36791,6 +36791,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22742984224",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 9,
+      "name": "Madison Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22752113649",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 14,
+      "name": "Pool Swim",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/22754438058",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -70846,6 +70864,15 @@
           "distance": 10054.900390625,
           "elevation_gain": 33.0,
           "moving_time": 2710.4039916992188
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "22752113649"
+          ],
+          "count": 1,
+          "distance": 20853.66015625,
+          "elevation_gain": 108.0,
+          "moving_time": 6381.25
         }
       },
       "Swim": {
@@ -71100,6 +71127,15 @@
           "distance": 2286.0,
           "elevation_gain": 0.0,
           "moving_time": 2481.173095703125
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "22754438058"
+          ],
+          "count": 1,
+          "distance": 1874.52001953125,
+          "elevation_gain": 0.0,
+          "moving_time": 2311.416015625
         }
       },
       "VirtualRide": {
@@ -71918,7 +71954,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-05-03T15:16:57.699221+00:00",
+  "generated_at": "2026-05-04T15:41:37.841192+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

@@ -36775,6 +36775,15 @@
       "year": 2026
     },
     {
+      "date": "2026-04-30",
+      "hour": 7,
+      "name": "Virtual Cycling",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/22786190751",
+      "year": 2026
+    },
+    {
       "date": "2026-05-02",
       "hour": 12,
       "name": "Arena - Bike -",
@@ -36817,6 +36826,24 @@
       "subtype": "running",
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22773459776",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 8,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/22785443004",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 7,
+      "name": "Virtual Cycling",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/22786153362",
       "year": 2026
     }
   ],
@@ -71635,6 +71662,24 @@
           "distance": 96660.0,
           "elevation_gain": 307.0,
           "moving_time": 11710.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "22786190751"
+          ],
+          "count": 1,
+          "distance": 25330.0,
+          "elevation_gain": 63.0,
+          "moving_time": 3608.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "22786153362"
+          ],
+          "count": 1,
+          "distance": 30510.0,
+          "elevation_gain": 75.0,
+          "moving_time": 3610.0
         }
       },
       "VirtualRun": {
@@ -71926,6 +71971,15 @@
           "distance": 7592.35986328125,
           "elevation_gain": 0.0,
           "moving_time": 2406.4729614257812
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "22785443004"
+          ],
+          "count": 1,
+          "distance": 3054.989990234375,
+          "elevation_gain": 0.0,
+          "moving_time": 907.0
         }
       },
       "multi_sport": {
@@ -71972,7 +72026,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-05-05T15:37:26.112959+00:00",
+  "generated_at": "2026-05-06T15:47:31.067938+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

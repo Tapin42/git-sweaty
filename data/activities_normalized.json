@@ -53126,6 +53126,19 @@
     "year": 2026
   },
   {
+    "date": "2026-04-30",
+    "distance": 25330.0,
+    "elevation_gain": 63.0,
+    "id": "22786190751",
+    "moving_time": 3608.0,
+    "name": "Virtual Cycling",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-04-30T07:33:37",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
     "date": "2026-05-02",
     "distance": 109663.671875,
     "elevation_gain": 1458.0,
@@ -53188,6 +53201,32 @@
     "raw_type": "running",
     "start_date_local": "2026-05-05T08:46:49",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 3054.989990234375,
+    "elevation_gain": 0.0,
+    "id": "22785443004",
+    "moving_time": 907.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-05-06T08:48:27",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 30510.0,
+    "elevation_gain": 75.0,
+    "id": "22786153362",
+    "moving_time": 3610.0,
+    "name": "Virtual Cycling",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-05-06T07:46:16",
+    "type": "VirtualRide",
     "year": 2026
   }
 ]

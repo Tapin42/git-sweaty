@@ -53254,5 +53254,31 @@
     "start_date_local": "2026-05-07T18:19:46",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 31098.80078125,
+    "elevation_gain": 249.0,
+    "id": "22813264481",
+    "moving_time": 3782.0,
+    "name": "Sauk City Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-05-08T15:43:55",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 25982.08984375,
+    "elevation_gain": 448.0,
+    "id": "22821933245",
+    "moving_time": 3429.5859985351562,
+    "name": "Middleton Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-05-09T09:12:53",
+    "type": "Ride",
+    "year": 2026
   }
 ]

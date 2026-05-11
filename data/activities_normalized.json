@@ -53293,5 +53293,31 @@
     "start_date_local": "2026-05-09T22:21:27",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 10005.2900390625,
+    "elevation_gain": 70.0,
+    "id": "22835002578",
+    "moving_time": 2887.3299865722656,
+    "name": "Madison Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-10T10:48:16",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 1531.6199951171875,
+    "elevation_gain": 0.0,
+    "id": "22837113419",
+    "moving_time": 1848.3310546875,
+    "name": "Pool Swim",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-05-10T14:31:17",
+    "type": "Swim",
+    "year": 2026
   }
 ]

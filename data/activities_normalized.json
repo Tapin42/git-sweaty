@@ -53319,5 +53319,18 @@
     "start_date_local": "2026-05-10T14:31:17",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 33312.94140625,
+    "elevation_gain": 289.0,
+    "id": "22849162034",
+    "moving_time": 3907.0679931640625,
+    "name": "Springfield Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-05-11T18:32:32",
+    "type": "Ride",
+    "year": 2026
   }
 ]

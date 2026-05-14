@@ -36917,6 +36917,24 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/22849162034",
       "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 8,
+      "name": "Van Buren County Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22878239288",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 9,
+      "name": "Van Buren County Multisport",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/22878701802",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -71035,6 +71053,15 @@
           "distance": 10005.2900390625,
           "elevation_gain": 70.0,
           "moving_time": 2887.3299865722656
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "22878239288"
+          ],
+          "count": 1,
+          "distance": 3407.139892578125,
+          "elevation_gain": 11.0,
+          "moving_time": 1027.1820087432861
         }
       },
       "Swim": {
@@ -72165,12 +72192,21 @@
           "distance": 13906.889668941498,
           "elevation_gain": 159.0,
           "moving_time": 2193.6869809627533
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "22878701802"
+          ],
+          "count": 1,
+          "distance": 7779.199935913086,
+          "elevation_gain": 16.0,
+          "moving_time": 1175.3560028076172
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-05-13T15:53:52.264914+00:00",
+  "generated_at": "2026-05-14T15:48:55.618838+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

@@ -53332,5 +53332,31 @@
     "start_date_local": "2026-05-11T18:32:32",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 3407.139892578125,
+    "elevation_gain": 11.0,
+    "id": "22878239288",
+    "moving_time": 1027.1820087432861,
+    "name": "Van Buren County Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-14T08:25:35",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 7779.199935913086,
+    "elevation_gain": 16.0,
+    "id": "22878701802",
+    "moving_time": 1175.3560028076172,
+    "name": "Van Buren County Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-05-14T09:02:24",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]

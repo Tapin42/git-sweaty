@@ -36971,6 +36971,42 @@
       "type": "multi_sport",
       "url": "https://connect.garmin.com/modern/activity/22900476043",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 17,
+      "name": "Van Buren County Multisport",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/22905893021",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 7,
+      "name": "Van Buren County Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22913307790",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 8,
+      "name": "Van Buren County Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22913308565",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 9,
+      "name": "Van Buren County Multisport",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/22913309477",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -71116,6 +71152,16 @@
           "distance": 1834.3299560546875,
           "elevation_gain": 6.0,
           "moving_time": 551.7900085449219
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "22913307790",
+            "22913308565"
+          ],
+          "count": 2,
+          "distance": 4065.9100341796875,
+          "elevation_gain": 12.0,
+          "moving_time": 1206.8919982910156
         }
       },
       "Swim": {
@@ -72267,18 +72313,28 @@
         },
         "2026-05-16": {
           "activity_ids": [
-            "22900476043"
+            "22900476043",
+            "22905893021"
+          ],
+          "count": 2,
+          "distance": 36369.18978881836,
+          "elevation_gain": 131.0,
+          "moving_time": 5455.628112792969
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "22913309477"
           ],
           "count": 1,
-          "distance": 29250.28955078125,
-          "elevation_gain": 110.0,
-          "moving_time": 4208.648101806641
+          "distance": 7690.919891357422,
+          "elevation_gain": 14.0,
+          "moving_time": 1168.2380142211914
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-05-16T15:24:08.930753+00:00",
+  "generated_at": "2026-05-17T15:24:27.351483+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

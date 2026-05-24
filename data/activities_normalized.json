@@ -53527,5 +53527,31 @@
     "start_date_local": "2026-05-22T18:44:56",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 123337.5234375,
+    "elevation_gain": 788.0,
+    "id": "22987726828",
+    "moving_time": 14436.134963989258,
+    "name": "Rockford - Bike - TBD on Distance (3-4)",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-05-23T10:59:29",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 5133.830078125,
+    "elevation_gain": 57.0,
+    "id": "22987911488",
+    "moving_time": 1496.8989868164062,
+    "name": "Rockford Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-23T15:07:28",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -37079,6 +37079,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22999404243",
       "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 8,
+      "name": "Waunakee Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23019475512",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -71297,6 +71306,15 @@
           "distance": 17144.609375,
           "elevation_gain": 118.0,
           "moving_time": 5242.865966796875
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "23019475512"
+          ],
+          "count": 1,
+          "distance": 9020.4404296875,
+          "elevation_gain": 43.0,
+          "moving_time": 2663.791006088257
         }
       },
       "Swim": {
@@ -72478,7 +72496,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-05-25T15:58:13.999040+00:00",
+  "generated_at": "2026-05-26T16:19:49.054157+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

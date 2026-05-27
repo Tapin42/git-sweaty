@@ -53579,5 +53579,31 @@
     "start_date_local": "2026-05-26T08:21:50",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 1397.780029296875,
+    "elevation_gain": 0.0,
+    "id": "23025518621",
+    "moving_time": 1923.0,
+    "name": "Madison Open Water Swimming",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-05-26T18:05:02",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 53599.7109375,
+    "elevation_gain": 378.0,
+    "id": "23031026339",
+    "moving_time": 6167.0,
+    "name": "Fitchburg - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-05-27T05:46:05",
+    "type": "Ride",
+    "year": 2026
   }
 ]

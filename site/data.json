@@ -37124,6 +37124,33 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23048491447",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 8,
+      "name": "Cross Plains - Bike -",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23070279923",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 11,
+      "name": "Cross Plains Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23071023983",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 8,
+      "name": "Madison Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23081297775",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -70976,6 +71003,15 @@
           "distance": 22794.619140625,
           "elevation_gain": 112.0,
           "moving_time": 2724.8150024414062
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "23070279923"
+          ],
+          "count": 1,
+          "distance": 94510.9765625,
+          "elevation_gain": 616.0,
+          "moving_time": 10557.898986816406
         }
       },
       "Run": {
@@ -71378,6 +71414,24 @@
           "distance": 14074.6396484375,
           "elevation_gain": 73.0,
           "moving_time": 3895.168975830078
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "23071023983"
+          ],
+          "count": 1,
+          "distance": 12549.669921875,
+          "elevation_gain": 175.0,
+          "moving_time": 3716.698013305664
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "23081297775"
+          ],
+          "count": 1,
+          "distance": 17116.44921875,
+          "elevation_gain": 109.0,
+          "moving_time": 5336.754943847656
         }
       },
       "Swim": {
@@ -72568,7 +72622,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-05-30T15:28:14.022514+00:00",
+  "generated_at": "2026-05-31T15:29:55.211437+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

@@ -53722,5 +53722,31 @@
     "start_date_local": "2026-06-04T08:56:24",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 47486.140625,
+    "elevation_gain": 423.0,
+    "id": "23152703304",
+    "moving_time": 5477.773986816406,
+    "name": "Cross Plains - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-06-06T08:11:29",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 6533.009765625,
+    "elevation_gain": 39.0,
+    "id": "23153234217",
+    "moving_time": 1803.9000244140625,
+    "name": "Cross Plains Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-06T09:55:48",
+    "type": "Run",
+    "year": 2026
   }
 ]

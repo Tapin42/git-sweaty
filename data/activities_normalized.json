@@ -53774,5 +53774,18 @@
     "start_date_local": "2026-06-07T14:48:53",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 5933.9501953125,
+    "elevation_gain": 33.0,
+    "id": "23186798961",
+    "moving_time": 1737.7619934082031,
+    "name": "Verona Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-09T06:59:36",
+    "type": "Run",
+    "year": 2026
   }
 ]

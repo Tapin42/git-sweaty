@@ -53826,5 +53826,18 @@
     "start_date_local": "2026-06-11T18:21:24",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 113743.16917419434,
+    "elevation_gain": 732.0,
+    "id": "23249402848",
+    "moving_time": 17259.442810058594,
+    "name": "Rockford Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-06-14T07:10:58",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]

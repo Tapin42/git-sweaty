@@ -37259,6 +37259,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23217575060",
       "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 7,
+      "name": "Rockford Multisport",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/23249402848",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -72833,12 +72842,21 @@
           "distance": 7690.919891357422,
           "elevation_gain": 14.0,
           "moving_time": 1168.2380142211914
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "23249402848"
+          ],
+          "count": 1,
+          "distance": 113743.16917419434,
+          "elevation_gain": 732.0,
+          "moving_time": 17259.442810058594
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-06-14T15:35:11.070914+00:00",
+  "generated_at": "2026-06-15T16:37:42.378264+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

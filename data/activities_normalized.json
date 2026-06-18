@@ -53865,5 +53865,18 @@
     "start_date_local": "2026-06-17T05:37:13",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 12878.3095703125,
+    "elevation_gain": 83.0,
+    "id": "23294937238",
+    "moving_time": 1650.0,
+    "name": "Springfield Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-06-18T08:31:26",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -37295,6 +37295,24 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23294937238",
       "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 18,
+      "name": "Waunakee Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23300593066",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 10,
+      "name": "Pool Swim",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23307479733",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -71684,6 +71702,15 @@
           "distance": 6937.18017578125,
           "elevation_gain": 10.0,
           "moving_time": 2142.084991455078
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "23300593066"
+          ],
+          "count": 1,
+          "distance": 4862.56005859375,
+          "elevation_gain": 19.0,
+          "moving_time": 1501.7999877929688
         }
       },
       "Swim": {
@@ -72010,6 +72037,15 @@
           "distance": 1238.469970703125,
           "elevation_gain": 0.0,
           "moving_time": 1657.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "23307479733"
+          ],
+          "count": 1,
+          "distance": 1828.800048828125,
+          "elevation_gain": 0.0,
+          "moving_time": 2095.779052734375
         }
       },
       "VirtualRide": {
@@ -72910,7 +72946,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-06-18T16:10:48.408584+00:00",
+  "generated_at": "2026-06-19T16:01:18.567094+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

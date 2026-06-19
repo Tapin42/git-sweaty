@@ -53878,5 +53878,31 @@
     "start_date_local": "2026-06-18T08:31:26",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 4862.56005859375,
+    "elevation_gain": 19.0,
+    "id": "23300593066",
+    "moving_time": 1501.7999877929688,
+    "name": "Waunakee Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-18T18:52:18",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 1828.800048828125,
+    "elevation_gain": 0.0,
+    "id": "23307479733",
+    "moving_time": 2095.779052734375,
+    "name": "Pool Swim",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-06-19T10:07:13",
+    "type": "Swim",
+    "year": 2026
   }
 ]

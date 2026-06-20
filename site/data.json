@@ -37313,6 +37313,24 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23307479733",
       "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 12,
+      "name": "Brigham Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23308999045",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 8,
+      "name": "Verona Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23318267769",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -71228,6 +71246,24 @@
           "distance": 12878.3095703125,
           "elevation_gain": 83.0,
           "moving_time": 1650.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "23308999045"
+          ],
+          "count": 1,
+          "distance": 14135.25,
+          "elevation_gain": 248.0,
+          "moving_time": 2576.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "23318267769"
+          ],
+          "count": 1,
+          "distance": 41555.5390625,
+          "elevation_gain": 584.0,
+          "moving_time": 5268.2030029296875
         }
       },
       "Run": {
@@ -72946,7 +72982,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-06-19T16:01:18.567094+00:00",
+  "generated_at": "2026-06-20T15:34:43.159115+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

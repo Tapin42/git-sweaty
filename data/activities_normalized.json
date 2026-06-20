@@ -53904,5 +53904,31 @@
     "start_date_local": "2026-06-19T10:07:13",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 14135.25,
+    "elevation_gain": 248.0,
+    "id": "23308999045",
+    "moving_time": 2576.0,
+    "name": "Brigham Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-06-19T12:33:29",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 41555.5390625,
+    "elevation_gain": 584.0,
+    "id": "23318267769",
+    "moving_time": 5268.2030029296875,
+    "name": "Verona Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-06-20T08:10:01",
+    "type": "Ride",
+    "year": 2026
   }
 ]

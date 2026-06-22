@@ -37331,6 +37331,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23318267769",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 10,
+      "name": "Madison Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23330795677",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -71747,6 +71756,15 @@
           "distance": 4862.56005859375,
           "elevation_gain": 19.0,
           "moving_time": 1501.7999877929688
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "23330795677"
+          ],
+          "count": 1,
+          "distance": 9095.41015625,
+          "elevation_gain": 14.0,
+          "moving_time": 2684.3309936523438
         }
       },
       "Swim": {
@@ -72982,7 +73000,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-06-21T15:36:01.081909+00:00",
+  "generated_at": "2026-06-22T16:34:36.262249+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

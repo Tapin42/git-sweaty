@@ -53995,5 +53995,18 @@
     "start_date_local": "2026-06-24T17:52:55",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 12610.1201171875,
+    "elevation_gain": 105.0,
+    "id": "23380770478",
+    "moving_time": 4243.039045333862,
+    "name": "Westport Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-25T18:03:43",
+    "type": "Run",
+    "year": 2026
   }
 ]

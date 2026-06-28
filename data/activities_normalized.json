@@ -54021,5 +54021,18 @@
     "start_date_local": "2026-06-26T12:37:32",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 118292.7578125,
+    "elevation_gain": 1661.0,
+    "id": "23399173230",
+    "moving_time": 15430.001951694489,
+    "name": "Blue Mounds - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-06-27T08:13:40",
+    "type": "Ride",
+    "year": 2026
   }
 ]

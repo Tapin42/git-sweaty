@@ -37394,6 +37394,15 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/23388501512",
       "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 8,
+      "name": "Blue Mounds - Bike -",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23399173230",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -71327,6 +71336,15 @@
           "distance": 41555.5390625,
           "elevation_gain": 584.0,
           "moving_time": 5268.2030029296875
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "23399173230"
+          ],
+          "count": 1,
+          "distance": 118292.7578125,
+          "elevation_gain": 1661.0,
+          "moving_time": 15430.001951694489
         }
       },
       "Run": {
@@ -73108,7 +73126,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-06-27T15:28:37.516198+00:00",
+  "generated_at": "2026-06-28T15:29:22.595775+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

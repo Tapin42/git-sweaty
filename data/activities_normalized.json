@@ -54034,5 +54034,31 @@
     "start_date_local": "2026-06-27T08:13:40",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 13670.0,
+    "elevation_gain": 52.0,
+    "id": "23410236767",
+    "moving_time": 1806.0,
+    "name": "Virtual Cycling",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-06-28T12:04:29",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 16660.060546875,
+    "elevation_gain": 0.0,
+    "id": "23413359247",
+    "moving_time": 5425.770080566406,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-06-28T20:39:42",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]

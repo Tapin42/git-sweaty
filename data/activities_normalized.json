@@ -54073,5 +54073,31 @@
     "start_date_local": "2026-06-30T07:58:19",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 1378.949951171875,
+    "elevation_gain": 0.0,
+    "id": "23436348107",
+    "moving_time": 2010.6240234375,
+    "name": "Sumpter Open Water Swimming",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-06-30T18:39:59",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 28771.6796875,
+    "elevation_gain": 545.0,
+    "id": "23441210725",
+    "moving_time": 3961.2340087890625,
+    "name": "Middleton Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-07-01T06:01:23",
+    "type": "Ride",
+    "year": 2026
   }
 ]

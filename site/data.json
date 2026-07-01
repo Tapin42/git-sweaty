@@ -37430,6 +37430,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23430040238",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 18,
+      "name": "Sumpter Open Water Swimming",
+      "subtype": "open_water_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23436348107",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-01",
+      "hour": 6,
+      "name": "Middleton Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23441210725",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -71372,6 +71390,15 @@
           "distance": 118292.7578125,
           "elevation_gain": 1661.0,
           "moving_time": 15430.001951694489
+        },
+        "2026-07-01": {
+          "activity_ids": [
+            "23441210725"
+          ],
+          "count": 1,
+          "distance": 28771.6796875,
+          "elevation_gain": 545.0,
+          "moving_time": 3961.2340087890625
         }
       },
       "Run": {
@@ -72244,6 +72271,15 @@
           "distance": 1828.800048828125,
           "elevation_gain": 0.0,
           "moving_time": 2042.498046875
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "23436348107"
+          ],
+          "count": 1,
+          "distance": 1378.949951171875,
+          "elevation_gain": 0.0,
+          "moving_time": 2010.6240234375
         }
       },
       "VirtualRide": {
@@ -73180,7 +73216,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-06-30T15:52:18.797552+00:00",
+  "generated_at": "2026-07-01T15:52:54.676213+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

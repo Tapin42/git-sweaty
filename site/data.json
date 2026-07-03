@@ -37448,6 +37448,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23441210725",
       "year": 2026
+    },
+    {
+      "date": "2026-07-03",
+      "hour": 8,
+      "name": "Sumpter Open Water Swimming",
+      "subtype": "open_water_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23465494894",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -72280,6 +72289,15 @@
           "distance": 1378.949951171875,
           "elevation_gain": 0.0,
           "moving_time": 2010.6240234375
+        },
+        "2026-07-03": {
+          "activity_ids": [
+            "23465494894"
+          ],
+          "count": 1,
+          "distance": 1856.260009765625,
+          "elevation_gain": 0.0,
+          "moving_time": 2394.2760009765625
         }
       },
       "VirtualRide": {
@@ -73216,7 +73234,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-07-02T15:47:12.025627+00:00",
+  "generated_at": "2026-07-03T15:39:46.853322+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

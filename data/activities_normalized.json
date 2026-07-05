@@ -54112,5 +54112,31 @@
     "start_date_local": "2026-07-03T08:25:40",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 143344.15625,
+    "elevation_gain": 1198.0,
+    "id": "23479164784",
+    "moving_time": 17786.85205078125,
+    "name": "Madison Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-07-04T06:44:39",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 6314.22021484375,
+    "elevation_gain": 33.0,
+    "id": "23479628860",
+    "moving_time": 1802.0,
+    "name": "Verona Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-04T11:59:46",
+    "type": "Run",
+    "year": 2026
   }
 ]

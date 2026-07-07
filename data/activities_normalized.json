@@ -54164,5 +54164,31 @@
     "start_date_local": "2026-07-05T21:01:04",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 2445.56005859375,
+    "elevation_gain": 11.0,
+    "id": "23504923939",
+    "moving_time": 1762.0,
+    "name": "Madison Kayaking",
+    "raw_activity_type": "kayaking_v2",
+    "raw_type": "kayaking_v2",
+    "start_date_local": "2026-07-06T18:56:20",
+    "type": "kayaking_v2",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 8852.6904296875,
+    "elevation_gain": 38.0,
+    "id": "23511328351",
+    "moving_time": 2771.8640003204346,
+    "name": "Waunakee Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-07T08:35:14",
+    "type": "Run",
+    "year": 2026
   }
 ]

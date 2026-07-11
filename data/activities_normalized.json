@@ -54216,5 +54216,70 @@
     "start_date_local": "2026-07-08T06:59:56",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 19264.98046875,
+    "elevation_gain": 119.0,
+    "id": "23550664482",
+    "moving_time": 2132.5599975585938,
+    "name": "Egg Harbor Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-07-10T13:09:32",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 3236.4599609375,
+    "elevation_gain": 17.0,
+    "id": "23551193195",
+    "moving_time": 946.0589904785156,
+    "name": "Egg Harbor Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-10T14:36:40",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 356.79998779296875,
+    "elevation_gain": 0.0,
+    "id": "23551387227",
+    "moving_time": 536.0,
+    "name": "Egg Harbor Open Water Swimming",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-07-10T15:12:31",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 3241.56005859375,
+    "elevation_gain": 5.0,
+    "id": "23558466627",
+    "moving_time": 946.1620178222656,
+    "name": "Egg Harbor Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-11T07:15:30",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 34584.73036193848,
+    "elevation_gain": 88.0,
+    "id": "23559991925",
+    "moving_time": 4758.6201095581055,
+    "name": "Egg Harbor Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-07-11T08:15:07",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]

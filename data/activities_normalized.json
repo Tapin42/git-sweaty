@@ -54281,5 +54281,18 @@
     "start_date_local": "2026-07-11T08:15:07",
     "type": "multi_sport",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 1892.489990234375,
+    "elevation_gain": 6.0,
+    "id": "23570125948",
+    "moving_time": 550.9100036621094,
+    "name": "Egg Harbor Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-12T07:29:11",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -54320,5 +54320,31 @@
     "start_date_local": "2026-07-14T08:14:13",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 2011.6800537109375,
+    "elevation_gain": 0.0,
+    "id": "23600440016",
+    "moving_time": 2264.52099609375,
+    "name": "Pool Swim",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-07-14T16:58:30",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 27176.05078125,
+    "elevation_gain": 172.0,
+    "id": "23606028805",
+    "moving_time": 3802.0,
+    "name": "Fitchburg - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-07-15T05:47:07",
+    "type": "Ride",
+    "year": 2026
   }
 ]

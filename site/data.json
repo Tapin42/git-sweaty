@@ -37601,6 +37601,24 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23595166145",
       "year": 2026
+    },
+    {
+      "date": "2026-07-14",
+      "hour": 16,
+      "name": "Pool Swim",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23600440016",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-15",
+      "hour": 5,
+      "name": "Fitchburg - Bike -",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23606028805",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -71588,6 +71606,15 @@
           "distance": 25558.83984375,
           "elevation_gain": 158.0,
           "moving_time": 3181.5230102539062
+        },
+        "2026-07-15": {
+          "activity_ids": [
+            "23606028805"
+          ],
+          "count": 1,
+          "distance": 27176.05078125,
+          "elevation_gain": 172.0,
+          "moving_time": 3802.0
         }
       },
       "Run": {
@@ -72550,6 +72577,15 @@
           "distance": 356.79998779296875,
           "elevation_gain": 0.0,
           "moving_time": 536.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "23600440016"
+          ],
+          "count": 1,
+          "distance": 2011.6800537109375,
+          "elevation_gain": 0.0,
+          "moving_time": 2264.52099609375
         }
       },
       "VirtualRide": {
@@ -73524,7 +73560,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-07-14T15:31:00.316422+00:00",
+  "generated_at": "2026-07-15T15:31:53.469126+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

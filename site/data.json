@@ -37619,6 +37619,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23606028805",
       "year": 2026
+    },
+    {
+      "date": "2026-07-15",
+      "hour": 12,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/23610362410",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -73439,6 +73448,15 @@
           "distance": 16660.060546875,
           "elevation_gain": 0.0,
           "moving_time": 5425.770080566406
+        },
+        "2026-07-15": {
+          "activity_ids": [
+            "23610362410"
+          ],
+          "count": 1,
+          "distance": 7945.75,
+          "elevation_gain": 0.0,
+          "moving_time": 2622.8809814453125
         }
       },
       "kayaking_v2": {
@@ -73560,7 +73578,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-07-15T15:31:53.469126+00:00",
+  "generated_at": "2026-07-16T15:32:40.775356+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

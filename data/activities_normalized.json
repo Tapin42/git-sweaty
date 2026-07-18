@@ -54359,5 +54359,31 @@
     "start_date_local": "2026-07-15T12:20:19",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 27140.0,
+    "elevation_gain": 182.0,
+    "id": "23635409964",
+    "moving_time": 3614.0,
+    "name": "Virtual Cycling",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-07-17T16:20:15",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 5939.009765625,
+    "elevation_gain": 25.0,
+    "id": "23641598985",
+    "moving_time": 1805.2229919433594,
+    "name": "Verona Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-18T06:49:09",
+    "type": "Run",
+    "year": 2026
   }
 ]

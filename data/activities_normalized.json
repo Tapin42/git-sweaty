@@ -54385,5 +54385,31 @@
     "start_date_local": "2026-07-18T06:49:09",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 126844.6015625,
+    "elevation_gain": 1539.0,
+    "id": "23645165041",
+    "moving_time": 16581.211959838867,
+    "name": "Verona - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-07-18T07:41:39",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 5654.2099609375,
+    "elevation_gain": 48.0,
+    "id": "23645556881",
+    "moving_time": 1814.7239990234375,
+    "name": "Verona Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-18T12:30:13",
+    "type": "Run",
+    "year": 2026
   }
 ]

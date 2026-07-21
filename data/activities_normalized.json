@@ -54424,5 +54424,18 @@
     "start_date_local": "2026-07-19T11:12:05",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 7270.9599609375,
+    "elevation_gain": 74.0,
+    "id": "23677073692",
+    "moving_time": 2382.66796875,
+    "name": "Madison Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-21T06:53:06",
+    "type": "Run",
+    "year": 2026
   }
 ]

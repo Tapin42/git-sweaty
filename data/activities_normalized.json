@@ -54437,5 +54437,18 @@
     "start_date_local": "2026-07-21T06:53:06",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 52035.53125,
+    "elevation_gain": 728.0,
+    "id": "23690234790",
+    "moving_time": 6773.992004394531,
+    "name": "Middleton - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-07-22T05:54:00",
+    "type": "Ride",
+    "year": 2026
   }
 ]

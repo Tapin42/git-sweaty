@@ -54476,5 +54476,31 @@
     "start_date_local": "2026-07-25T07:16:25",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 129064.6171875,
+    "elevation_gain": 2342.0,
+    "id": "23730926447",
+    "moving_time": 18994.189010620117,
+    "name": "Blue Mounds - Bike - 90/100",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-07-25T08:02:50",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 6482.509765625,
+    "elevation_gain": 82.0,
+    "id": "23731241710",
+    "moving_time": 1956.3829650878906,
+    "name": "Blue Mounds Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-25T13:47:18",
+    "type": "Run",
+    "year": 2026
   }
 ]

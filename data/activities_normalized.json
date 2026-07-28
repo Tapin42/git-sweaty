@@ -54515,5 +54515,18 @@
     "start_date_local": "2026-07-26T08:30:27",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 7838.85009765625,
+    "elevation_gain": 74.0,
+    "id": "23763275152",
+    "moving_time": 2526.1730346679688,
+    "name": "Waunakee Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-28T07:55:49",
+    "type": "Run",
+    "year": 2026
   }
 ]

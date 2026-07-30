@@ -54528,5 +54528,18 @@
     "start_date_local": "2026-07-28T07:55:49",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 145008.625,
+    "elevation_gain": 1455.0,
+    "id": "23778893808",
+    "moving_time": 18504.96697998047,
+    "name": "New Glarus - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-07-29T06:52:54",
+    "type": "Ride",
+    "year": 2026
   }
 ]

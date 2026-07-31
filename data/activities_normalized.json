@@ -54541,5 +54541,31 @@
     "start_date_local": "2026-07-29T06:52:54",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 9906.7197265625,
+    "elevation_gain": 67.0,
+    "id": "23794795270",
+    "moving_time": 3392.772979736328,
+    "name": "Fitchburg Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-30T18:01:42",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 24825.0703125,
+    "elevation_gain": 160.0,
+    "id": "23801390537",
+    "moving_time": 3368.0,
+    "name": "Springfield Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-07-31T08:24:14",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -54567,5 +54567,31 @@
     "start_date_local": "2026-07-31T08:24:14",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 5793.2001953125,
+    "elevation_gain": 81.0,
+    "id": "23804538719",
+    "moving_time": 1803.5570068359375,
+    "name": "Waunakee Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-31T14:16:04",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 8549.3203125,
+    "elevation_gain": 63.0,
+    "id": "23811518160",
+    "moving_time": 2655.3190002441406,
+    "name": "Verona Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-01T06:16:36",
+    "type": "Run",
+    "year": 2026
   }
 ]

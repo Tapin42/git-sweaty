@@ -37772,6 +37772,24 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23801390537",
       "year": 2026
+    },
+    {
+      "date": "2026-07-31",
+      "hour": 14,
+      "name": "Waunakee Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23804538719",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 6,
+      "name": "Verona Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23811518160",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -72460,6 +72478,24 @@
           "distance": 9906.7197265625,
           "elevation_gain": 67.0,
           "moving_time": 3392.772979736328
+        },
+        "2026-07-31": {
+          "activity_ids": [
+            "23804538719"
+          ],
+          "count": 1,
+          "distance": 5793.2001953125,
+          "elevation_gain": 81.0,
+          "moving_time": 1803.5570068359375
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "23811518160"
+          ],
+          "count": 1,
+          "distance": 8549.3203125,
+          "elevation_gain": 63.0,
+          "moving_time": 2655.3190002441406
         }
       },
       "Swim": {
@@ -73850,7 +73886,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-07-31T15:43:18.499788+00:00",
+  "generated_at": "2026-08-01T15:23:44.474243+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

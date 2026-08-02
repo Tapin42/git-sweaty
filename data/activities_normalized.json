@@ -54593,5 +54593,44 @@
     "start_date_local": "2026-08-01T06:16:36",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 131009.890625,
+    "elevation_gain": 1693.0,
+    "id": "23815993573",
+    "moving_time": 16854.74299621582,
+    "name": "Verona - Bike - Stretching It Out From Ve",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-08-01T07:53:43",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 6453.419921875,
+    "elevation_gain": 66.0,
+    "id": "23816431678",
+    "moving_time": 1984.3930053710938,
+    "name": "Verona Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-01T13:42:37",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 20955.509765625,
+    "elevation_gain": 127.0,
+    "id": "23826038195",
+    "moving_time": 6358.147003173828,
+    "name": "Madison Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-02T08:24:10",
+    "type": "Run",
+    "year": 2026
   }
 ]

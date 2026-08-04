@@ -54645,5 +54645,18 @@
     "start_date_local": "2026-08-02T16:22:36",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 1001.0800170898438,
+    "elevation_gain": 0.0,
+    "id": "23842369544",
+    "moving_time": 1383.0,
+    "name": "Madison Open Water Swimming",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-08-03T18:17:35",
+    "type": "Swim",
+    "year": 2026
   }
 ]

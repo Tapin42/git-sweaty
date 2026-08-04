@@ -37826,6 +37826,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23829819588",
       "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 18,
+      "name": "Madison Open Water Swimming",
+      "subtype": "open_water_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/23842369544",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -72949,6 +72958,15 @@
           "distance": 2011.6800537109375,
           "elevation_gain": 0.0,
           "moving_time": 2264.52099609375
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "23842369544"
+          ],
+          "count": 1,
+          "distance": 1001.0800170898438,
+          "elevation_gain": 0.0,
+          "moving_time": 1383.0
         }
       },
       "VirtualRide": {
@@ -73950,7 +73968,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-08-03T15:53:22.058128+00:00",
+  "generated_at": "2026-08-04T15:48:13.370467+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

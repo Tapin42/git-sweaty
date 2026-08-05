@@ -54658,5 +54658,44 @@
     "start_date_local": "2026-08-03T18:17:35",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 8206.2197265625,
+    "elevation_gain": 74.0,
+    "id": "23851062972",
+    "moving_time": 2638.2770080566406,
+    "name": "Waunakee Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-04T10:33:20",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 31925.109375,
+    "elevation_gain": 407.0,
+    "id": "23861224039",
+    "moving_time": 4052.8289947509766,
+    "name": "Middleton - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-08-05T05:51:44",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 3646.27001953125,
+    "elevation_gain": 19.0,
+    "id": "23861493028",
+    "moving_time": 1033.9840087890625,
+    "name": "Middleton Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-05T07:04:40",
+    "type": "Run",
+    "year": 2026
   }
 ]

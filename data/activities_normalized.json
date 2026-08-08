@@ -54710,5 +54710,57 @@
     "start_date_local": "2026-08-06T14:21:04",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 21537.919921875,
+    "elevation_gain": 68.0,
+    "id": "23890627220",
+    "moving_time": 2690.0,
+    "name": "Milwaukee Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-08-07T12:49:04",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 2348.8701171875,
+    "elevation_gain": 1.0,
+    "id": "23898583762",
+    "moving_time": 707.0,
+    "name": "Milwaukee Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-08T07:03:08",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 2458.710006713867,
+    "elevation_gain": 5.0,
+    "id": "23900805114",
+    "moving_time": 1990.4870400428772,
+    "name": "Milwaukee Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-08-08T07:36:51",
+    "type": "multi_sport",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 48751.13187408447,
+    "elevation_gain": 256.0,
+    "id": "23900809131",
+    "moving_time": 6862.4749130010605,
+    "name": "Milwaukee Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-08-08T08:10:40",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]

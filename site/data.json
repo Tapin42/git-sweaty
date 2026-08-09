@@ -37907,6 +37907,15 @@
       "type": "multi_sport",
       "url": "https://connect.garmin.com/modern/activity/23900809131",
       "year": 2026
+    },
+    {
+      "date": "2026-08-08",
+      "hour": 16,
+      "name": "Milwaukee County Multisport",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/23904383758",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -74093,18 +74102,19 @@
         "2026-08-08": {
           "activity_ids": [
             "23900805114",
-            "23900809131"
+            "23900809131",
+            "23904383758"
           ],
-          "count": 2,
-          "distance": 51209.84188079834,
-          "elevation_gain": 261.0,
-          "moving_time": 8852.961953043938
+          "count": 3,
+          "distance": 56953.03185272217,
+          "elevation_gain": 438.0,
+          "moving_time": 9943.055954813957
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-08-08T15:25:14.072073+00:00",
+  "generated_at": "2026-08-09T15:26:35.322801+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

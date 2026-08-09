@@ -54762,5 +54762,18 @@
     "start_date_local": "2026-08-08T08:10:40",
     "type": "multi_sport",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 5743.189971923828,
+    "elevation_gain": 177.0,
+    "id": "23904383758",
+    "moving_time": 1090.0940017700195,
+    "name": "Milwaukee County Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-08-08T16:19:21",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]

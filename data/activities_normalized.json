@@ -54775,5 +54775,31 @@
     "start_date_local": "2026-08-08T16:19:21",
     "type": "multi_sport",
     "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 5119.68994140625,
+    "elevation_gain": 0.0,
+    "id": "23927911743",
+    "moving_time": 1809.5280151367188,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-08-10T14:44:56",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 13217.76953125,
+    "elevation_gain": 64.0,
+    "id": "23928980862",
+    "moving_time": 1706.0,
+    "name": "Springfield Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-08-10T17:20:42",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -54879,5 +54879,44 @@
     "start_date_local": "2026-08-15T06:51:33",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 187993.046875,
+    "elevation_gain": 1933.0,
+    "id": "23990715683",
+    "moving_time": 23610.97999024391,
+    "name": "Madison - Bike W/Sim Group",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-08-15T07:35:45",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 9742.48046875,
+    "elevation_gain": 65.0,
+    "id": "23991091897",
+    "moving_time": 2943.467987060547,
+    "name": "Madison Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-15T14:47:37",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 25979.720703125,
+    "elevation_gain": 177.0,
+    "id": "24000103575",
+    "moving_time": 8638.65805053711,
+    "name": "Madison Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-16T07:40:23",
+    "type": "Run",
+    "year": 2026
   }
 ]

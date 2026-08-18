@@ -38015,6 +38015,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24000103575",
       "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 6,
+      "name": "Pool Swim",
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "url": "https://connect.garmin.com/modern/activity/24023230122",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -73283,6 +73292,15 @@
           "distance": 1640.3699951171875,
           "elevation_gain": 0.0,
           "moving_time": 2238.8349990844727
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "24023230122"
+          ],
+          "count": 1,
+          "distance": 2000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2594.257080078125
         }
       },
       "VirtualRide": {
@@ -74304,7 +74322,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-08-17T15:20:35.114122+00:00",
+  "generated_at": "2026-08-18T15:27:09.163557+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

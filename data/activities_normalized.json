@@ -54931,5 +54931,31 @@
     "start_date_local": "2026-08-18T06:02:13",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 25891.400390625,
+    "elevation_gain": 296.0,
+    "id": "24036535792",
+    "moving_time": 3765.0,
+    "name": "San Diego - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-08-19T05:50:56",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 5468.6298828125,
+    "elevation_gain": 76.0,
+    "id": "24036888631",
+    "moving_time": 1659.9120025634766,
+    "name": "San Diego Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-19T06:59:24",
+    "type": "Run",
+    "year": 2026
   }
 ]

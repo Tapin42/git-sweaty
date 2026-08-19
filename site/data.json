@@ -38024,6 +38024,24 @@
       "type": "Swim",
       "url": "https://connect.garmin.com/modern/activity/24023230122",
       "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 5,
+      "name": "San Diego - Bike -",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24036535792",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 6,
+      "name": "San Diego Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24036888631",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -72137,6 +72155,15 @@
           "distance": 187993.046875,
           "elevation_gain": 1933.0,
           "moving_time": 23610.97999024391
+        },
+        "2026-08-19": {
+          "activity_ids": [
+            "24036535792"
+          ],
+          "count": 1,
+          "distance": 25891.400390625,
+          "elevation_gain": 296.0,
+          "moving_time": 3765.0
         }
       },
       "Run": {
@@ -72876,6 +72903,15 @@
           "distance": 25979.720703125,
           "elevation_gain": 177.0,
           "moving_time": 8638.65805053711
+        },
+        "2026-08-19": {
+          "activity_ids": [
+            "24036888631"
+          ],
+          "count": 1,
+          "distance": 5468.6298828125,
+          "elevation_gain": 76.0,
+          "moving_time": 1659.9120025634766
         }
       },
       "Swim": {
@@ -74322,7 +74358,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-08-18T15:27:09.163557+00:00",
+  "generated_at": "2026-08-19T15:26:26.605276+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

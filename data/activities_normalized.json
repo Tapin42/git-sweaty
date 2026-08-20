@@ -54957,5 +54957,18 @@
     "start_date_local": "2026-08-19T06:59:24",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 11347.0703125,
+    "elevation_gain": 204.0,
+    "id": "24049570568",
+    "moving_time": 3700.8070068359375,
+    "name": "San Diego Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-20T06:21:34",
+    "type": "Run",
+    "year": 2026
   }
 ]

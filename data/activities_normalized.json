@@ -54970,5 +54970,18 @@
     "start_date_local": "2026-08-20T06:21:34",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 17790.5390625,
+    "elevation_gain": 50.0,
+    "id": "24054851346",
+    "moving_time": 2492.344970703125,
+    "name": "San Diego Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-08-20T15:36:33",
+    "type": "Ride",
+    "year": 2026
   }
 ]

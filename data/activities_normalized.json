@@ -54983,5 +54983,31 @@
     "start_date_local": "2026-08-20T15:36:33",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 1927.6099853515625,
+    "elevation_gain": 6.0,
+    "id": "24077666023",
+    "moving_time": 499.0,
+    "name": "Chicago Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-08-22T15:50:25",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 47544.79830932617,
+    "elevation_gain": 239.0,
+    "id": "24086233193",
+    "moving_time": 8905.61392211914,
+    "name": "Chicago Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-08-23T06:42:31",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]

@@ -38060,6 +38060,24 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/24054851346",
       "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 15,
+      "name": "Chicago Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24077666023",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 6,
+      "name": "Chicago Multisport",
+      "subtype": "multi_sport",
+      "type": "multi_sport",
+      "url": "https://connect.garmin.com/modern/activity/24086233193",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -72191,6 +72209,15 @@
           "distance": 17790.5390625,
           "elevation_gain": 50.0,
           "moving_time": 2492.344970703125
+        },
+        "2026-08-22": {
+          "activity_ids": [
+            "24077666023"
+          ],
+          "count": 1,
+          "distance": 1927.6099853515625,
+          "elevation_gain": 6.0,
+          "moving_time": 499.0
         }
       },
       "Run": {
@@ -74389,12 +74416,21 @@
           "distance": 56953.03185272217,
           "elevation_gain": 438.0,
           "moving_time": 9943.055954813957
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "24086233193"
+          ],
+          "count": 1,
+          "distance": 47544.79830932617,
+          "elevation_gain": 239.0,
+          "moving_time": 8905.61392211914
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-08-22T15:16:05.829877+00:00",
+  "generated_at": "2026-08-23T15:17:52.505933+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

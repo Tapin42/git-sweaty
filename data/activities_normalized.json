@@ -55009,5 +55009,18 @@
     "start_date_local": "2026-08-23T06:42:31",
     "type": "multi_sport",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 35706.01953125,
+    "elevation_gain": 147.0,
+    "id": "24091045564",
+    "moving_time": 3438.1129760742188,
+    "name": "Chicago Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-23T07:17:11",
+    "type": "Ride",
+    "year": 2026
   }
 ]

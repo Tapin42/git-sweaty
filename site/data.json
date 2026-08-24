@@ -38078,6 +38078,15 @@
       "type": "multi_sport",
       "url": "https://connect.garmin.com/modern/activity/24086233193",
       "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 7,
+      "name": "Chicago Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24091045564",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -72218,6 +72227,15 @@
           "distance": 1927.6099853515625,
           "elevation_gain": 6.0,
           "moving_time": 499.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "24091045564"
+          ],
+          "count": 1,
+          "distance": 35706.01953125,
+          "elevation_gain": 147.0,
+          "moving_time": 3438.1129760742188
         }
       },
       "Run": {
@@ -74430,7 +74448,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-08-23T15:17:52.505933+00:00",
+  "generated_at": "2026-08-24T15:34:50.708318+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

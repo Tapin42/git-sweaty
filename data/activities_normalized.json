@@ -55022,5 +55022,57 @@
     "start_date_local": "2026-08-23T07:17:11",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 5431.72021484375,
+    "elevation_gain": 0.0,
+    "id": "24117511491",
+    "moving_time": 1809.39599609375,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-08-25T19:26:50",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 15074.419921875,
+    "elevation_gain": 112.0,
+    "id": "24117733275",
+    "moving_time": 1967.0,
+    "name": "TrainingPeaks Virtual - Phone Home",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-08-25T20:04:14",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 45181.26171875,
+    "elevation_gain": 446.0,
+    "id": "24122898299",
+    "moving_time": 5772.361053466797,
+    "name": "Fitchburg - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-08-26T05:58:26",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 3220.1298828125,
+    "elevation_gain": 6.0,
+    "id": "24123155164",
+    "moving_time": 931.4700012207031,
+    "name": "Fitchburg Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-26T07:41:46",
+    "type": "Run",
+    "year": 2026
   }
 ]

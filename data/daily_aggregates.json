@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:37:59.360732+00:00",
+  "generated_at": "2026-08-26T16:14:22.633645+00:00",
   "years": {
     "2011": {
       "Hike": {
@@ -34147,6 +34147,15 @@
           "distance": 35706.01953125,
           "elevation_gain": 147.0,
           "moving_time": 3438.1129760742188
+        },
+        "2026-08-26": {
+          "activity_ids": [
+            "24122898299"
+          ],
+          "count": 1,
+          "distance": 45181.26171875,
+          "elevation_gain": 446.0,
+          "moving_time": 5772.361053466797
         }
       },
       "Run": {
@@ -34904,6 +34913,15 @@
           "distance": 11347.0703125,
           "elevation_gain": 204.0,
           "moving_time": 3700.8070068359375
+        },
+        "2026-08-26": {
+          "activity_ids": [
+            "24123155164"
+          ],
+          "count": 1,
+          "distance": 3220.1298828125,
+          "elevation_gain": 6.0,
+          "moving_time": 931.4700012207031
         }
       },
       "Swim": {
@@ -35864,6 +35882,15 @@
           "distance": 27140.0,
           "elevation_gain": 182.0,
           "moving_time": 3614.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "24117733275"
+          ],
+          "count": 1,
+          "distance": 15074.419921875,
+          "elevation_gain": 112.0,
+          "moving_time": 1967.0
         }
       },
       "VirtualRun": {
@@ -36218,6 +36245,15 @@
           "distance": 5119.68994140625,
           "elevation_gain": 0.0,
           "moving_time": 1809.5280151367188
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "24117511491"
+          ],
+          "count": 1,
+          "distance": 5431.72021484375,
+          "elevation_gain": 0.0,
+          "moving_time": 1809.39599609375
         }
       },
       "kayaking_v2": {

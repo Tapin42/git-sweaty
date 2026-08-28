@@ -55074,5 +55074,31 @@
     "start_date_local": "2026-08-26T07:41:46",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 20869.55078125,
+    "elevation_gain": 177.0,
+    "id": "24136919384",
+    "moving_time": 2727.0,
+    "name": "Springfield Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-08-27T08:28:03",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 8703.7900390625,
+    "elevation_gain": 52.0,
+    "id": "24142685979",
+    "moving_time": 2769.4030113220215,
+    "name": "Westport Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-27T18:04:30",
+    "type": "Run",
+    "year": 2026
   }
 ]

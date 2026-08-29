@@ -38141,6 +38141,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24142685979",
       "year": 2026
+    },
+    {
+      "date": "2026-08-29",
+      "hour": 9,
+      "name": "Caledonia - Bike -",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24162142686",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-29",
+      "hour": 10,
+      "name": "Caledonia Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24162645095",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -72308,6 +72326,15 @@
           "distance": 20869.55078125,
           "elevation_gain": 177.0,
           "moving_time": 2727.0
+        },
+        "2026-08-29": {
+          "activity_ids": [
+            "24162142686"
+          ],
+          "count": 1,
+          "distance": 41873.390625,
+          "elevation_gain": 446.0,
+          "moving_time": 5507.7459716796875
         }
       },
       "Run": {
@@ -73083,6 +73110,15 @@
           "distance": 8703.7900390625,
           "elevation_gain": 52.0,
           "moving_time": 2769.4030113220215
+        },
+        "2026-08-29": {
+          "activity_ids": [
+            "24162645095"
+          ],
+          "count": 1,
+          "distance": 6450.77978515625,
+          "elevation_gain": 68.0,
+          "moving_time": 1847.7669982910156
         }
       },
       "Swim": {
@@ -74556,7 +74592,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-08-28T23:50:33.848563+00:00",
+  "generated_at": "2026-08-29T18:08:56.050817+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

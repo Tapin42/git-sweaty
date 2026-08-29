@@ -55100,5 +55100,31 @@
     "start_date_local": "2026-08-27T18:04:30",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 41873.390625,
+    "elevation_gain": 446.0,
+    "id": "24162142686",
+    "moving_time": 5507.7459716796875,
+    "name": "Caledonia - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-08-29T09:09:56",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 6450.77978515625,
+    "elevation_gain": 68.0,
+    "id": "24162645095",
+    "moving_time": 1847.7669982910156,
+    "name": "Caledonia Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-29T10:50:19",
+    "type": "Run",
+    "year": 2026
   }
 ]

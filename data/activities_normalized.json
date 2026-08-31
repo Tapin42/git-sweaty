@@ -55126,5 +55126,18 @@
     "start_date_local": "2026-08-29T10:50:19",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 10468.9404296875,
+    "elevation_gain": 50.0,
+    "id": "24188525101",
+    "moving_time": 3203.966033935547,
+    "name": "Springfield Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-31T13:52:50",
+    "type": "Run",
+    "year": 2026
   }
 ]

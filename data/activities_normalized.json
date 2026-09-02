@@ -55139,5 +55139,31 @@
     "start_date_local": "2026-08-31T13:52:50",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 7885.330078125,
+    "elevation_gain": 50.0,
+    "id": "24203996782",
+    "moving_time": 2460.6540145874023,
+    "name": "Springfield Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-01T18:35:04",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 13347.0302734375,
+    "elevation_gain": 76.0,
+    "id": "24204203470",
+    "moving_time": 1702.0,
+    "name": "Springfield Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-09-01T19:20:36",
+    "type": "Ride",
+    "year": 2026
   }
 ]

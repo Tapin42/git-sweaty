@@ -38186,6 +38186,33 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/24204203470",
       "year": 2026
+    },
+    {
+      "date": "2026-09-02",
+      "hour": 18,
+      "name": "Fitchburg - Bike -",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24217014238",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-02",
+      "hour": 19,
+      "name": "Fitchburg Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24217159868",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-03",
+      "hour": 6,
+      "name": "Springfield Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24222248712",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -72371,6 +72398,15 @@
           "distance": 13347.0302734375,
           "elevation_gain": 76.0,
           "moving_time": 1702.0
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "24217014238"
+          ],
+          "count": 1,
+          "distance": 30425.640625,
+          "elevation_gain": 202.0,
+          "moving_time": 3685.0
         }
       },
       "Run": {
@@ -73173,6 +73209,24 @@
           "distance": 7885.330078125,
           "elevation_gain": 50.0,
           "moving_time": 2460.6540145874023
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "24217159868"
+          ],
+          "count": 1,
+          "distance": 3042.449951171875,
+          "elevation_gain": 6.0,
+          "moving_time": 903.0989990234375
+        },
+        "2026-09-03": {
+          "activity_ids": [
+            "24222248712"
+          ],
+          "count": 1,
+          "distance": 5314.6201171875,
+          "elevation_gain": 31.0,
+          "moving_time": 1667.7650146484375
         }
       },
       "Swim": {
@@ -74646,7 +74700,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-09-02T18:23:42.144927+00:00",
+  "generated_at": "2026-09-03T18:18:49.628467+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

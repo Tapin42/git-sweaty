@@ -55204,5 +55204,31 @@
     "start_date_local": "2026-09-03T06:44:09",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 19273.380859375,
+    "elevation_gain": 123.0,
+    "id": "24243822715",
+    "moving_time": 2559.0,
+    "name": "Zofingen Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-09-05T10:09:18",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 2767.56005859375,
+    "elevation_gain": 56.0,
+    "id": "24244387044",
+    "moving_time": 913.0,
+    "name": "Zofingen Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-05T11:23:08",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -38213,6 +38213,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24222248712",
       "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 10,
+      "name": "Zofingen Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24243822715",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 11,
+      "name": "Zofingen Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24244387044",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -72407,6 +72425,15 @@
           "distance": 30425.640625,
           "elevation_gain": 202.0,
           "moving_time": 3685.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "24243822715"
+          ],
+          "count": 1,
+          "distance": 19273.380859375,
+          "elevation_gain": 123.0,
+          "moving_time": 2559.0
         }
       },
       "Run": {
@@ -73227,6 +73254,15 @@
           "distance": 5314.6201171875,
           "elevation_gain": 31.0,
           "moving_time": 1667.7650146484375
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "24244387044"
+          ],
+          "count": 1,
+          "distance": 2767.56005859375,
+          "elevation_gain": 56.0,
+          "moving_time": 913.0
         }
       },
       "Swim": {
@@ -74700,7 +74736,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-09-04T18:02:22.772785+00:00",
+  "generated_at": "2026-09-05T17:05:55.274778+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

@@ -55230,5 +55230,18 @@
     "start_date_local": "2026-09-05T11:23:08",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 181470.8606414795,
+    "elevation_gain": 2321.0,
+    "id": "24261751466",
+    "moving_time": 31520.369300842285,
+    "name": "Zofingen Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-09-06T09:02:07",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]

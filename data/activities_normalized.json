@@ -55243,5 +55243,18 @@
     "start_date_local": "2026-09-06T09:02:07",
     "type": "multi_sport",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 1969.9200439453125,
+    "elevation_gain": 9.0,
+    "id": "24293841746",
+    "moving_time": 631.1010131835938,
+    "name": "Lucerne Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-09T10:16:16",
+    "type": "Run",
+    "year": 2026
   }
 ]

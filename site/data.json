@@ -38240,6 +38240,15 @@
       "type": "multi_sport",
       "url": "https://connect.garmin.com/modern/activity/24261751466",
       "year": 2026
+    },
+    {
+      "date": "2026-09-09",
+      "hour": 10,
+      "name": "Lucerne Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24293841746",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -73272,6 +73281,15 @@
           "distance": 2767.56005859375,
           "elevation_gain": 56.0,
           "moving_time": 913.0
+        },
+        "2026-09-09": {
+          "activity_ids": [
+            "24293841746"
+          ],
+          "count": 1,
+          "distance": 1969.9200439453125,
+          "elevation_gain": 9.0,
+          "moving_time": 631.1010131835938
         }
       },
       "Swim": {
@@ -74754,7 +74772,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-09-08T18:16:11.941684+00:00",
+  "generated_at": "2026-09-09T18:16:47.857472+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

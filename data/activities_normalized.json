@@ -55256,5 +55256,18 @@
     "start_date_local": "2026-09-09T10:16:16",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 5912.85986328125,
+    "elevation_gain": 42.0,
+    "id": "24348245619",
+    "moving_time": 1823.0650024414062,
+    "name": "Madison Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-13T10:09:12",
+    "type": "Run",
+    "year": 2026
   }
 ]

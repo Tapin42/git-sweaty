@@ -55269,5 +55269,31 @@
     "start_date_local": "2026-09-13T10:09:12",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 7354.31982421875,
+    "elevation_gain": 70.0,
+    "id": "24414043371",
+    "moving_time": 1901.7939987182617,
+    "name": "Madison Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-18T19:31:38",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 28668.189453125,
+    "elevation_gain": 113.0,
+    "id": "24422829838",
+    "moving_time": 3610.0,
+    "name": "TrainingPeaks Virtual - Wollongong, New South Wales, Australia",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-09-19T10:53:08",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

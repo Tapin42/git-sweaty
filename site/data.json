@@ -38258,6 +38258,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24348245619",
       "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 19,
+      "name": "Madison Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24414043371",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 10,
+      "name": "TrainingPeaks Virtual - Wollongong, New South Wales, Australia",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24422829838",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -73308,6 +73326,15 @@
           "distance": 5912.85986328125,
           "elevation_gain": 42.0,
           "moving_time": 1823.0650024414062
+        },
+        "2026-09-18": {
+          "activity_ids": [
+            "24414043371"
+          ],
+          "count": 1,
+          "distance": 7354.31982421875,
+          "elevation_gain": 70.0,
+          "moving_time": 1901.7939987182617
         }
       },
       "Swim": {
@@ -74277,6 +74304,15 @@
           "distance": 15074.419921875,
           "elevation_gain": 112.0,
           "moving_time": 1967.0
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "24422829838"
+          ],
+          "count": 1,
+          "distance": 28668.189453125,
+          "elevation_gain": 113.0,
+          "moving_time": 3610.0
         }
       },
       "VirtualRun": {
@@ -74790,7 +74826,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-09-18T18:02:12.462607+00:00",
+  "generated_at": "2026-09-19T17:44:13.939686+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

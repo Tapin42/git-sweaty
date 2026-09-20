@@ -38276,6 +38276,15 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/24422829838",
       "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 10,
+      "name": "Wollongong Virtual Cycling",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24423932836",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -74307,12 +74316,13 @@
         },
         "2026-09-19": {
           "activity_ids": [
-            "24422829838"
+            "24422829838",
+            "24423932836"
           ],
-          "count": 1,
-          "distance": 28668.189453125,
-          "elevation_gain": 113.0,
-          "moving_time": 3610.0
+          "count": 2,
+          "distance": 57328.189453125,
+          "elevation_gain": 226.0,
+          "moving_time": 7220.0
         }
       },
       "VirtualRun": {
@@ -74826,7 +74836,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-09-19T17:44:13.939686+00:00",
+  "generated_at": "2026-09-20T17:54:45.483019+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

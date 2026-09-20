@@ -55295,5 +55295,18 @@
     "start_date_local": "2026-09-19T10:53:08",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 28660.0,
+    "elevation_gain": 113.0,
+    "id": "24423932836",
+    "moving_time": 3610.0,
+    "name": "Wollongong Virtual Cycling",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-09-19T10:53:08",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

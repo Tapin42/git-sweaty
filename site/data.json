@@ -38294,6 +38294,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24436344288",
       "year": 2026
+    },
+    {
+      "date": "2026-09-22",
+      "hour": 18,
+      "name": "Madison Kayaking",
+      "subtype": "kayaking_v2",
+      "type": "kayaking_v2",
+      "url": "https://connect.garmin.com/modern/activity/24463056555",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-23",
+      "hour": 8,
+      "name": "TrainingPeaks Virtual - All Around The Watertower Reverse",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24469833482",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -74341,6 +74359,15 @@
           "distance": 57328.189453125,
           "elevation_gain": 226.0,
           "moving_time": 7220.0
+        },
+        "2026-09-23": {
+          "activity_ids": [
+            "24469833482"
+          ],
+          "count": 1,
+          "distance": 14903.400390625,
+          "elevation_gain": 87.0,
+          "moving_time": 1812.0
         }
       },
       "VirtualRun": {
@@ -74715,6 +74742,15 @@
           "distance": 2445.56005859375,
           "elevation_gain": 11.0,
           "moving_time": 1762.0
+        },
+        "2026-09-22": {
+          "activity_ids": [
+            "24463056555"
+          ],
+          "count": 1,
+          "distance": 1290.780029296875,
+          "elevation_gain": 1.0,
+          "moving_time": 924.0
         }
       },
       "multi_sport": {
@@ -74854,7 +74890,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-09-22T18:28:10.445851+00:00",
+  "generated_at": "2026-09-23T18:48:19.775576+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

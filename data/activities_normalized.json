@@ -55321,5 +55321,31 @@
     "start_date_local": "2026-09-20T12:59:54",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 1290.780029296875,
+    "elevation_gain": 1.0,
+    "id": "24463056555",
+    "moving_time": 924.0,
+    "name": "Madison Kayaking",
+    "raw_activity_type": "kayaking_v2",
+    "raw_type": "kayaking_v2",
+    "start_date_local": "2026-09-22T18:22:15",
+    "type": "kayaking_v2",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-23",
+    "distance": 14903.400390625,
+    "elevation_gain": 87.0,
+    "id": "24469833482",
+    "moving_time": 1812.0,
+    "name": "TrainingPeaks Virtual - All Around The Watertower Reverse",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-09-23T08:46:20",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

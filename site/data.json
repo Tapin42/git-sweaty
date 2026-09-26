@@ -38321,6 +38321,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24487867827",
       "year": 2026
+    },
+    {
+      "date": "2026-09-25",
+      "hour": 16,
+      "name": "Madison Kayaking",
+      "subtype": "kayaking_v2",
+      "type": "kayaking_v2",
+      "url": "https://connect.garmin.com/modern/activity/24498493251",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-26",
+      "hour": 10,
+      "name": "Springfield Cycling",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24507357196",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -72524,6 +72542,15 @@
           "distance": 19273.380859375,
           "elevation_gain": 123.0,
           "moving_time": 2559.0
+        },
+        "2026-09-26": {
+          "activity_ids": [
+            "24507357196"
+          ],
+          "count": 1,
+          "distance": 16752.099609375,
+          "elevation_gain": 96.0,
+          "moving_time": 2010.0
         }
       },
       "Run": {
@@ -74769,6 +74796,15 @@
           "distance": 1290.780029296875,
           "elevation_gain": 1.0,
           "moving_time": 924.0
+        },
+        "2026-09-25": {
+          "activity_ids": [
+            "24498493251"
+          ],
+          "count": 1,
+          "distance": 5022.56982421875,
+          "elevation_gain": 3.0,
+          "moving_time": 2614.0
         }
       },
       "multi_sport": {
@@ -74908,7 +74944,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-09-25T19:06:27.047410+00:00",
+  "generated_at": "2026-09-26T18:16:01.653533+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",
@@ -75017,8 +75053,8 @@
     "stop_watch",
     "cross_country_skiing_ws",
     "transition_v2",
-    "stand_up_paddleboarding_v2",
     "kayaking_v2",
+    "stand_up_paddleboarding_v2",
     "incident_detected",
     "whitewater_rafting_kayaking"
   ],

@@ -55360,5 +55360,31 @@
     "start_date_local": "2026-09-24T18:01:05",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 5022.56982421875,
+    "elevation_gain": 3.0,
+    "id": "24498493251",
+    "moving_time": 2614.0,
+    "name": "Madison Kayaking",
+    "raw_activity_type": "kayaking_v2",
+    "raw_type": "kayaking_v2",
+    "start_date_local": "2026-09-25T16:47:13",
+    "type": "kayaking_v2",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 16752.099609375,
+    "elevation_gain": 96.0,
+    "id": "24507357196",
+    "moving_time": 2010.0,
+    "name": "Springfield Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-09-26T10:13:25",
+    "type": "Ride",
+    "year": 2026
   }
 ]

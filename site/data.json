@@ -38339,6 +38339,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/24507357196",
       "year": 2026
+    },
+    {
+      "date": "2026-09-27",
+      "hour": 10,
+      "name": "Prairie du Sac Kayaking",
+      "subtype": "kayaking_v2",
+      "type": "kayaking_v2",
+      "url": "https://connect.garmin.com/modern/activity/24522392572",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -74805,6 +74814,15 @@
           "distance": 5022.56982421875,
           "elevation_gain": 3.0,
           "moving_time": 2614.0
+        },
+        "2026-09-27": {
+          "activity_ids": [
+            "24522392572"
+          ],
+          "count": 1,
+          "distance": 24470.349609375,
+          "elevation_gain": 50.0,
+          "moving_time": 12169.202021956444
         }
       },
       "multi_sport": {
@@ -74944,7 +74962,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-09-27T18:52:25.690853+00:00",
+  "generated_at": "2026-09-28T21:02:20.997359+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",
@@ -75052,8 +75070,8 @@
     "multi_sport",
     "stop_watch",
     "cross_country_skiing_ws",
-    "transition_v2",
     "kayaking_v2",
+    "transition_v2",
     "stand_up_paddleboarding_v2",
     "incident_detected",
     "whitewater_rafting_kayaking"

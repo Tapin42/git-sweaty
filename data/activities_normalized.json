@@ -55412,5 +55412,31 @@
     "start_date_local": "2026-09-29T08:07:28",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 3602.97998046875,
+    "elevation_gain": 1.0,
+    "id": "24547894169",
+    "moving_time": 1859.2009887695312,
+    "name": "Madison Kayaking",
+    "raw_activity_type": "kayaking_v2",
+    "raw_type": "kayaking_v2",
+    "start_date_local": "2026-09-29T17:28:39",
+    "type": "kayaking_v2",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 18389.91015625,
+    "elevation_gain": 120.0,
+    "id": "24555494810",
+    "moving_time": 2716.0,
+    "name": "TrainingPeaks Virtual - Workout: Bike -",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-09-30T09:21:22",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

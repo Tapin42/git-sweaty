@@ -55438,5 +55438,18 @@
     "start_date_local": "2026-09-30T09:21:22",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 7151.9501953125,
+    "elevation_gain": 126.0,
+    "id": "24578232712",
+    "moving_time": 2209.717010498047,
+    "name": "Waunakee Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-02T07:27:47",
+    "type": "Run",
+    "year": 2026
   }
 ]

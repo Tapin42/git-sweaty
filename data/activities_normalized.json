@@ -55451,5 +55451,31 @@
     "start_date_local": "2026-10-02T07:27:47",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 18985.75,
+    "elevation_gain": 101.0,
+    "id": "24583744164",
+    "moving_time": 2496.0,
+    "name": "Springfield - Bike -",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-02T17:52:12",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 40251.46001434326,
+    "elevation_gain": 404.0,
+    "id": "24593334423",
+    "moving_time": 9215.896953582764,
+    "name": "Stark Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-10-03T09:14:57",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]

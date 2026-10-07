@@ -55490,5 +55490,18 @@
     "start_date_local": "2026-10-06T08:19:58",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 15304.58984375,
+    "elevation_gain": 95.0,
+    "id": "24640177616",
+    "moving_time": 1815.0,
+    "name": "TrainingPeaks Virtual - All Around The Watertower",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-10-07T08:43:16",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

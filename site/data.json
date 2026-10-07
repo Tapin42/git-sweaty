@@ -38411,6 +38411,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24627146876",
       "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 8,
+      "name": "TrainingPeaks Virtual - All Around The Watertower",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24640177616",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -74530,6 +74539,15 @@
           "distance": 18389.91015625,
           "elevation_gain": 120.0,
           "moving_time": 2716.0
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "24640177616"
+          ],
+          "count": 1,
+          "distance": 15304.58984375,
+          "elevation_gain": 95.0,
+          "moving_time": 1815.0
         }
       },
       "VirtualRun": {
@@ -75088,7 +75106,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-10-06T19:57:29.069521+00:00",
+  "generated_at": "2026-10-07T20:23:39.406256+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

@@ -55516,5 +55516,18 @@
     "start_date_local": "2026-10-08T18:07:57",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 8156.31982421875,
+    "elevation_gain": 0.0,
+    "id": "24691798803",
+    "moving_time": 2706.6199951171875,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-10-11T19:33:01",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]

@@ -38438,6 +38438,24 @@
       "type": "VirtualRun",
       "url": "https://connect.garmin.com/modern/activity/24691798803",
       "year": 2026
+    },
+    {
+      "date": "2026-10-12",
+      "hour": 18,
+      "name": "Middleton Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24703231133",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 8,
+      "name": "Waunakee Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24709245294",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -73569,6 +73587,24 @@
           "distance": 10132.6904296875,
           "elevation_gain": 23.0,
           "moving_time": 3333.1279830932617
+        },
+        "2026-10-12": {
+          "activity_ids": [
+            "24703231133"
+          ],
+          "count": 1,
+          "distance": 4848.35009765625,
+          "elevation_gain": 48.0,
+          "moving_time": 1606.0640258789062
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "24709245294"
+          ],
+          "count": 1,
+          "distance": 9502.3603515625,
+          "elevation_gain": 77.0,
+          "moving_time": 3024.3939514160156
         }
       },
       "Swim": {
@@ -75142,7 +75178,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-10-12T22:22:23.648344+00:00",
+  "generated_at": "2026-10-13T20:29:16.223833+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

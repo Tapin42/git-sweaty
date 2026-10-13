@@ -55529,5 +55529,31 @@
     "start_date_local": "2026-10-11T19:33:01",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-12",
+    "distance": 4848.35009765625,
+    "elevation_gain": 48.0,
+    "id": "24703231133",
+    "moving_time": 1606.0640258789062,
+    "name": "Middleton Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-12T18:36:12",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 9502.3603515625,
+    "elevation_gain": 77.0,
+    "id": "24709245294",
+    "moving_time": 3024.3939514160156,
+    "name": "Waunakee Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-13T08:01:08",
+    "type": "Run",
+    "year": 2026
   }
 ]

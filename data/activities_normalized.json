@@ -55555,5 +55555,18 @@
     "start_date_local": "2026-10-13T08:01:08",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 18227.099609375,
+    "elevation_gain": 219.0,
+    "id": "24727458752",
+    "moving_time": 2709.0,
+    "name": "TrainingPeaks Virtual - Free Ride",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-10-14T17:17:12",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

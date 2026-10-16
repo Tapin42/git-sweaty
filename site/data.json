@@ -38465,6 +38465,15 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/24727458752",
       "year": 2026
+    },
+    {
+      "date": "2026-10-15",
+      "hour": 18,
+      "name": "Fitchburg Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24739840813",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -73614,6 +73623,15 @@
           "distance": 9502.3603515625,
           "elevation_gain": 77.0,
           "moving_time": 3024.3939514160156
+        },
+        "2026-10-15": {
+          "activity_ids": [
+            "24739840813"
+          ],
+          "count": 1,
+          "distance": 14526.900390625,
+          "elevation_gain": 29.0,
+          "moving_time": 4754.28897857666
         }
       },
       "Swim": {
@@ -75196,7 +75214,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-10-15T18:51:29.200459+00:00",
+  "generated_at": "2026-10-16T18:35:24.734100+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

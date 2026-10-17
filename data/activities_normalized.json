@@ -55581,5 +55581,18 @@
     "start_date_local": "2026-10-15T18:08:59",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 4855.740234375,
+    "elevation_gain": 53.0,
+    "id": "24758398869",
+    "moving_time": 1496.3219909667969,
+    "name": "Middleton Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-17T10:21:13",
+    "type": "Run",
+    "year": 2026
   }
 ]

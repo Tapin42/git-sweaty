@@ -38474,6 +38474,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24739840813",
       "year": 2026
+    },
+    {
+      "date": "2026-10-17",
+      "hour": 10,
+      "name": "Middleton Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24758398869",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -73632,6 +73641,15 @@
           "distance": 14526.900390625,
           "elevation_gain": 29.0,
           "moving_time": 4754.28897857666
+        },
+        "2026-10-17": {
+          "activity_ids": [
+            "24758398869"
+          ],
+          "count": 1,
+          "distance": 4855.740234375,
+          "elevation_gain": 53.0,
+          "moving_time": 1496.3219909667969
         }
       },
       "Swim": {
@@ -75214,7 +75232,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-10-16T18:35:24.734100+00:00",
+  "generated_at": "2026-10-17T17:44:04.278710+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

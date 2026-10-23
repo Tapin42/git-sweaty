@@ -55646,5 +55646,18 @@
     "start_date_local": "2026-10-21T08:13:46",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 15000.1904296875,
+    "elevation_gain": 28.0,
+    "id": "24820365572",
+    "moving_time": 4846.085988998413,
+    "name": "Fitchburg Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-22T18:03:08",
+    "type": "Run",
+    "year": 2026
   }
 ]

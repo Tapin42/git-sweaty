@@ -55659,5 +55659,31 @@
     "start_date_local": "2026-10-22T18:03:08",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 8079.35986328125,
+    "elevation_gain": 149.0,
+    "id": "24829782223",
+    "moving_time": 1632.0,
+    "name": "TrainingPeaks Virtual - Free Ride",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-10-23T17:19:08",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 6454.93017578125,
+    "elevation_gain": 52.0,
+    "id": "24837077617",
+    "moving_time": 2089.1580200195312,
+    "name": "Madison Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-24T09:21:09",
+    "type": "Run",
+    "year": 2026
   }
 ]

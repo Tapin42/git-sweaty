@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:04:41.962739+00:00",
+  "generated_at": "2026-10-26T20:16:50.770302+00:00",
   "years": {
     "2011": {
       "Hike": {
@@ -36624,6 +36624,26 @@
           "distance": 8156.31982421875,
           "elevation_gain": 0.0,
           "moving_time": 2706.6199951171875
+        }
+      },
+      "WeightTraining": {
+        "2026-10-19": {
+          "activity_ids": [
+            "24850589610"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 720.0
+        },
+        "2026-10-23": {
+          "activity_ids": [
+            "24850587374"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2473.0
         }
       },
       "kayaking_v2": {

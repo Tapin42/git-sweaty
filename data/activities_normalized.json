@@ -55622,6 +55622,19 @@
     "year": 2026
   },
   {
+    "date": "2026-10-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24850589610",
+    "moving_time": 720.0,
+    "name": "Evening workout \ud83c\udfcb\ufe0f",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-10-19T19:08:49",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
     "date": "2026-10-20",
     "distance": 13594.41015625,
     "elevation_gain": 87.0,
@@ -55671,6 +55684,19 @@
     "raw_type": "virtual_ride",
     "start_date_local": "2026-10-23T17:19:08",
     "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24850587374",
+    "moving_time": 2473.0,
+    "name": "Evening workout \ud83c\udfcb\ufe0f",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-10-23T18:23:47",
+    "type": "WeightTraining",
     "year": 2026
   },
   {

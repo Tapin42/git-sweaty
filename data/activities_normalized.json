@@ -55724,5 +55724,31 @@
     "start_date_local": "2026-10-25T08:09:59",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 18886.58984375,
+    "elevation_gain": 118.0,
+    "id": "24863371004",
+    "moving_time": 2711.0,
+    "name": "TrainingPeaks Virtual - Workout: Bike -",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-10-26T18:02:22",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24864224426",
+    "moving_time": 975.603,
+    "name": "Evening workout \ud83c\udfcb\ufe0f",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-10-26T19:05:57",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

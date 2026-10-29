@@ -38591,6 +38591,24 @@
       "type": "WeightTraining",
       "url": "https://connect.garmin.com/modern/activity/24864224426",
       "year": 2026
+    },
+    {
+      "date": "2026-10-28",
+      "hour": 17,
+      "name": "TrainingPeaks Virtual - Workout: Bike -",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24887733185",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-28",
+      "hour": 18,
+      "name": "Evening workout \ud83c\udfcb\ufe0f",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/24888396852",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -74854,6 +74872,15 @@
           "distance": 18886.58984375,
           "elevation_gain": 118.0,
           "moving_time": 2711.0
+        },
+        "2026-10-28": {
+          "activity_ids": [
+            "24887733185"
+          ],
+          "count": 1,
+          "distance": 27149.0703125,
+          "elevation_gain": 67.0,
+          "moving_time": 3605.0
         }
       },
       "VirtualRun": {
@@ -75255,6 +75282,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 975.603
+        },
+        "2026-10-28": {
+          "activity_ids": [
+            "24888396852"
+          ],
+          "count": 1,
+          "distance": 120.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2847.0
         }
       },
       "kayaking_v2": {
@@ -75450,7 +75486,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-10-28T20:02:56.367146+00:00",
+  "generated_at": "2026-10-29T20:01:30.842263+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

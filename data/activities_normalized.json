@@ -55776,5 +55776,18 @@
     "start_date_local": "2026-10-28T18:59:26",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 14580.2802734375,
+    "elevation_gain": 19.0,
+    "id": "24899534279",
+    "moving_time": 4422.120986938477,
+    "name": "Fitchburg Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-29T18:04:27",
+    "type": "Run",
+    "year": 2026
   }
 ]

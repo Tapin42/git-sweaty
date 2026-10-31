@@ -38618,6 +38618,42 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24899534279",
       "year": 2026
+    },
+    {
+      "date": "2026-10-30",
+      "hour": 17,
+      "name": "TrainingPeaks Virtual - Workout: Bike -",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24909993993",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-30",
+      "hour": 17,
+      "name": "TrainingPeaks Virtual - Free Ride",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24910096377",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-30",
+      "hour": 18,
+      "name": "Evening workout \ud83c\udfcb\ufe0f",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/24911058273",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-31",
+      "hour": 9,
+      "name": "Springfield Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24918338193",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -73839,6 +73875,15 @@
           "distance": 14580.2802734375,
           "elevation_gain": 19.0,
           "moving_time": 4422.120986938477
+        },
+        "2026-10-31": {
+          "activity_ids": [
+            "24918338193"
+          ],
+          "count": 1,
+          "distance": 6939.7998046875,
+          "elevation_gain": 80.0,
+          "moving_time": 2295.3390502929688
         }
       },
       "Swim": {
@@ -74899,6 +74944,16 @@
           "distance": 27149.0703125,
           "elevation_gain": 67.0,
           "moving_time": 3605.0
+        },
+        "2026-10-30": {
+          "activity_ids": [
+            "24909993993",
+            "24910096377"
+          ],
+          "count": 2,
+          "distance": 16481.86962890625,
+          "elevation_gain": 68.0,
+          "moving_time": 2299.0
         }
       },
       "VirtualRun": {
@@ -75309,6 +75364,15 @@
           "distance": 120.0,
           "elevation_gain": 0.0,
           "moving_time": 2847.0
+        },
+        "2026-10-30": {
+          "activity_ids": [
+            "24911058273"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4043.0
         }
       },
       "kayaking_v2": {
@@ -75504,7 +75568,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-10-30T19:49:38.325947+00:00",
+  "generated_at": "2026-10-31T19:03:06.641098+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

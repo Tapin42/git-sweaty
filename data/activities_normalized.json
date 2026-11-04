@@ -55854,5 +55854,31 @@
     "start_date_local": "2026-11-01T08:07:55",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 10729.33984375,
+    "elevation_gain": 0.0,
+    "id": "24958778796",
+    "moving_time": 3485.605001449585,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-11-03T18:58:37",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 23744.189453125,
+    "elevation_gain": 62.0,
+    "id": "24963745244",
+    "moving_time": 3011.0,
+    "name": "TrainingPeaks Virtual - Workout: Bike -",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-11-04T06:48:13",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

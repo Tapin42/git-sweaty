@@ -38681,6 +38681,15 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/24963745244",
       "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 8,
+      "name": "Morning workout \u2600\ufe0f",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/24975602415",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -75427,6 +75436,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4043.0
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "24975602415"
+          ],
+          "count": 1,
+          "distance": 120.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2819.0
         }
       },
       "kayaking_v2": {
@@ -75622,7 +75640,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-11-04T21:01:37.459036+00:00",
+  "generated_at": "2026-11-05T21:18:46.311133+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

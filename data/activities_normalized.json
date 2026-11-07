@@ -55906,5 +55906,31 @@
     "start_date_local": "2026-11-06T07:09:31",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24998918663",
+    "moving_time": 2643.0,
+    "name": "Evening workout \ud83c\udfcb\ufe0f",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-11-06T08:21:27",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 6458.93994140625,
+    "elevation_gain": 74.0,
+    "id": "25001214480",
+    "moving_time": 2057.6199951171875,
+    "name": "Madison Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-07T12:15:41",
+    "type": "Run",
+    "year": 2026
   }
 ]

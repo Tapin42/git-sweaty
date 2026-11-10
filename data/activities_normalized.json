@@ -55945,5 +55945,31 @@
     "start_date_local": "2026-11-08T08:02:06",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 18950.599609375,
+    "elevation_gain": 71.0,
+    "id": "25025916876",
+    "moving_time": 2712.0,
+    "name": "TrainingPeaks Virtual - Workout: Bike -",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-11-09T18:04:29",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 8340.2001953125,
+    "elevation_gain": 54.0,
+    "id": "25031735267",
+    "moving_time": 2652.8259887695312,
+    "name": "Waunakee Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-10T07:50:30",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:10:19.240206+00:00",
+  "generated_at": "2026-11-11T21:42:40.435811+00:00",
   "years": {
     "2011": {
       "Hike": {
@@ -36361,6 +36361,15 @@
           "distance": 18950.599609375,
           "elevation_gain": 71.0,
           "moving_time": 2712.0
+        },
+        "2026-11-11": {
+          "activity_ids": [
+            "25043472213"
+          ],
+          "count": 1,
+          "distance": 26467.41015625,
+          "elevation_gain": 135.0,
+          "moving_time": 3618.0
         }
       },
       "VirtualRun": {
@@ -36807,6 +36816,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2643.0
+        },
+        "2026-11-09": {
+          "activity_ids": [
+            "25037344086"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 844.932015625
         }
       },
       "kayaking_v2": {

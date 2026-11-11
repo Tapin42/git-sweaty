@@ -38737,12 +38737,30 @@
       "year": 2026
     },
     {
+      "date": "2026-11-09",
+      "hour": 19,
+      "name": "Evening workout \ud83c\udfcb\ufe0f",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/25037344086",
+      "year": 2026
+    },
+    {
       "date": "2026-11-10",
       "hour": 7,
       "name": "Waunakee Running",
       "subtype": "running",
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/25031735267",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-11",
+      "hour": 7,
+      "name": "TrainingPeaks Virtual - Workout: Bike -",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/25043472213",
       "year": 2026
     }
   ],
@@ -75107,6 +75125,15 @@
           "distance": 18950.599609375,
           "elevation_gain": 71.0,
           "moving_time": 2712.0
+        },
+        "2026-11-11": {
+          "activity_ids": [
+            "25043472213"
+          ],
+          "count": 1,
+          "distance": 26467.41015625,
+          "elevation_gain": 135.0,
+          "moving_time": 3618.0
         }
       },
       "VirtualRun": {
@@ -75553,6 +75580,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2643.0
+        },
+        "2026-11-09": {
+          "activity_ids": [
+            "25037344086"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 844.932015625
         }
       },
       "kayaking_v2": {
@@ -75748,7 +75784,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-11-10T21:10:19.274378+00:00",
+  "generated_at": "2026-11-11T21:42:40.480456+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

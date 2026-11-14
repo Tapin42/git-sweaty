@@ -38780,6 +38780,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/25066199179",
       "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 18,
+      "name": "Afternoon workout \ud83d\udcaa",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/25071026147",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 7,
+      "name": "Westport Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/25076572813",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -74055,6 +74073,15 @@
           "distance": 7701.93017578125,
           "elevation_gain": 42.0,
           "moving_time": 2274.749008178711
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "25076572813"
+          ],
+          "count": 1,
+          "distance": 6765.2998046875,
+          "elevation_gain": 60.0,
+          "moving_time": 2108.74600982666
         }
       },
       "Swim": {
@@ -75625,6 +75652,15 @@
           "distance": 180.0,
           "elevation_gain": 0.0,
           "moving_time": 2698.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "25071026147"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 760.0
         }
       },
       "kayaking_v2": {
@@ -75820,7 +75856,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-11-13T21:09:05.540301+00:00",
+  "generated_at": "2026-11-14T19:40:30.513254+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

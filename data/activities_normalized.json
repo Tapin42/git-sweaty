@@ -56023,5 +56023,31 @@
     "start_date_local": "2026-11-13T08:32:14",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "25071026147",
+    "moving_time": 760.0,
+    "name": "Afternoon workout \ud83d\udcaa",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-11-13T18:02:48",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 6765.2998046875,
+    "elevation_gain": 60.0,
+    "id": "25076572813",
+    "moving_time": 2108.74600982666,
+    "name": "Westport Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-14T07:37:22",
+    "type": "Run",
+    "year": 2026
   }
 ]

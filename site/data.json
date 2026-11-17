@@ -38816,6 +38816,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/25087969601",
       "year": 2026
+    },
+    {
+      "date": "2026-11-17",
+      "hour": 8,
+      "name": "TrainingPeaks Virtual - Workout: Bike -",
+      "subtype": "virtual_ride",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/25109191747",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -75216,6 +75225,15 @@
           "distance": 26467.41015625,
           "elevation_gain": 135.0,
           "moving_time": 3618.0
+        },
+        "2026-11-17": {
+          "activity_ids": [
+            "25109191747"
+          ],
+          "count": 1,
+          "distance": 21073.48046875,
+          "elevation_gain": 58.0,
+          "moving_time": 2713.0
         }
       },
       "VirtualRun": {
@@ -75884,7 +75902,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/navratil42",
-  "generated_at": "2026-11-16T23:37:45.766491+00:00",
+  "generated_at": "2026-11-17T22:45:33.787988+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/navratil42",
   "repo": "Tapin42/git-sweaty",

@@ -56153,5 +56153,31 @@
     "start_date_local": "2026-11-24T09:12:50",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 7904.2099609375,
+    "elevation_gain": 92.0,
+    "id": "25197169078",
+    "moving_time": 2429.0,
+    "name": "Fitchburg Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-25T10:33:35",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 4528.47021484375,
+    "elevation_gain": 56.0,
+    "id": "25205787494",
+    "moving_time": 1386.3889770507812,
+    "name": "Fitchburg Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-26T07:48:23",
+    "type": "Run",
+    "year": 2026
   }
 ]

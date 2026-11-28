@@ -56192,5 +56192,18 @@
     "start_date_local": "2026-11-26T08:30:04",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 18584.73046875,
+    "elevation_gain": 94.0,
+    "id": "25218476815",
+    "moving_time": 2714.0,
+    "name": "TrainingPeaks Virtual - Workout: Bike -",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-11-27T12:18:15",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
